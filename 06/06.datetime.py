@@ -47,6 +47,7 @@ def format_date():
                                      "%Y-%m-%d %H:%M")  # 날짜 포맷
     print("strptime:", dt, type(dt))
 
+
 if __name__ == "__main__":
     # get_datetime()
     # timedelta_ex()
