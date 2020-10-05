@@ -38,3 +38,4 @@ with open('04.fileio2.py', 'rt', encoding='utf-8') as f3:
     lines = f3.readlines()
     for linenum, line in enumerate(lines):
         print(f'{linenum + 1} : {line}', end='')
+
